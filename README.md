@@ -12,9 +12,24 @@
 <img src="https://github.com/user-attachments/assets/aba26f99-6099-4456-9042-09146ddcc36b" alt="전체 구성도" width="600" />
 
 #### 2.1. 사용 기술
-> 스택 별(backend, frontend, designer등) 사용한 기술 및 버전을 작성하세요.
+> Window와 Ubuntu 환경 2가지 모두 사용하였다.
 > 
-> ex) React.Js - React14, Node.js - v20.0.2
+> window 환경:
+> window11 home
+> python 3.11.9
+> pytorch 2.4.0
+> CUDA 12.6
+> VScode 1.94.2
+> GPU는 NVIDIA GeForce RTX 4070 TI
+>
+> Ubuntu 환경:
+> Ubuntu 22.04.5
+> python 3.10.12
+> pytorch 2.6.0
+> ROCm 6.2.2
+> VScode 1.94.1
+> GPU AMD Radeon RX 6700 XT
+
 
 ### 3. 설치 및 사용 방법
 > 제품을 설치하기 위헤 필요한 소프트웨어 및 설치 방법을 작성하세요.
