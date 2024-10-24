@@ -42,10 +42,8 @@ Commit Test
 ---
 
 
-![Screenshot from 2024-10-24 20-35-57](https://github.com/user-attachments/assets/4af924df-34b5-47ee-871b-64c658b078c3)
 
-
-<img src="https://github.com/user-attachments/assets/aba26f99-6099-4456-9042-09146ddcc36b" alt="전체 구성도" width="600" />
+<img src="https://github.com/user-attachments/assets/aba26f99-6099-4456-9042-09146ddcc36b" alt="전체 구성도"/>
 
 
 
