@@ -57,8 +57,8 @@ Commit Test
 ### 2. 상세설계
 #### 2.1. 시스템 구성도
 > 시스템 구성도(infra, front, back등의 node 간의 관계)의 사진을 삽입하세요.
-(https://github.com/user-attachments/assets/53a26b7f-ab6e-4c54-8ef7-f42a3789ee7a)
 
+<img src="https://github.com/user-attachments/assets/aba26f99-6099-4456-9042-09146ddcc36b" alt="전체 구성도" width="600" />
 
 #### 2.1. 사용 기술
 > 스택 별(backend, frontend, designer등) 사용한 기술 및 버전을 작성하세요.
@@ -193,6 +193,7 @@ __double underscores__ <br />
 - 웹이 아닌 로컬에서 작성한다면, github issue에 이미지를 드래그 앤 드롭하여 image url 을 얻을 수 있습니다. (URL만 복사하고 issue는 제출 안 함.)
   <img src="https://github.com/user-attachments/assets/0fe3bff1-7a2b-4df3-b230-cac4ef5f6d0b" alt="이슈에 image 올림" width="600" />
   <img src="https://github.com/user-attachments/assets/251c6d42-b36b-4ad4-9cfa-fa2cc67a9a50" alt="image url 복사" width="600" />
+
 
 
 ### 5.8. 유튜브 영상 추가
