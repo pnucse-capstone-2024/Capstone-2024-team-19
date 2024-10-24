@@ -41,6 +41,14 @@ Commit Test
 
 ---
 
+
+![Screenshot from 2024-10-24 20-35-57](https://github.com/user-attachments/assets/4af924df-34b5-47ee-871b-64c658b078c3)
+
+
+<img src="https://github.com/user-attachments/assets/aba26f99-6099-4456-9042-09146ddcc36b" alt="전체 구성도" width="600" />
+
+
+
 ## 4. README.md 가이드 라인
 - README 파일 작성시에 아래의 5가지 항목의 내용은 필수적으로 포함해야 합니다.
 - 아래의 5가지 항목이외에 프로젝트의 이해를 돕기 위한 내용을 추가해도 됩니다.
