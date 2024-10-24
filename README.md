@@ -57,7 +57,7 @@ Commit Test
 ### 2. 상세설계
 #### 2.1. 시스템 구성도
 > 시스템 구성도(infra, front, back등의 node 간의 관계)의 사진을 삽입하세요.
-![Screenshot from 2024-10-24 20-35-57](https://github.com/user-attachments/assets/53a26b7f-ab6e-4c54-8ef7-f42a3789ee7a)
+(https://github.com/user-attachments/assets/53a26b7f-ab6e-4c54-8ef7-f42a3789ee7a)
 
 
 #### 2.1. 사용 기술
