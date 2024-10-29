@@ -41,6 +41,7 @@
 
 ### 4. 소개 및 시연 영상
 > https://www.youtube.com/watch?v=rubRGvQCn1E&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=19
+> [![유튜브 링크](https://img.youtube.com/vi/rubRGvQCn1E&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=19/0.jpg)]
 
 ### 5. 팀 소개
 > 팀원 소개 & 구성원 별 역할 분담 & 간단한 연락처를 작성하세요.
