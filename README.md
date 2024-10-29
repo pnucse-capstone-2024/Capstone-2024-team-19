@@ -42,7 +42,7 @@
 ### 4. 소개 및 시연 영상
 > 아래 그림 클릭시 링크로 이동합니다.
 > 
-![youtube link](https://img.youtube.com/vi/rubRGvQCn1E/2.jpg)](https://youtu.be/rubRGvQCn1E)
+![youtube link](https://img.youtube.com/vi/rubRGvQCn1E/0.jpg)](https://youtu.be/rubRGvQCn1E)
 
 ### 5. 팀 소개
 > 팀원 소개 & 구성원 별 역할 분담 & 간단한 연락처를 작성하세요.
