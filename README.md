@@ -40,8 +40,7 @@
 > 6. 결과는 터미널에 나오고, ./whisperDiarizationOutput.txt에 txt 파일로 저장된다.
 
 ### 4. 소개 및 시연 영상
-> https://www.youtube.com/watch?v=rubRGvQCn1E&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=19
-
+> 아래 그림 클릭시 링크로 이동합니다.
 [![Video Label](http://img.youtube.com/vi/rubRGvQCn1E/0.jpg)]
 
 ### 5. 팀 소개
