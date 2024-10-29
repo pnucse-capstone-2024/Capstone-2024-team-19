@@ -41,7 +41,7 @@
 
 ### 4. 소개 및 시연 영상
 > https://www.youtube.com/watch?v=rubRGvQCn1E&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=19
-> 
+> https://www.youtube.com/watch?v=rubRGvQCn1E&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=19
 >[![youtube link](https://img.youtube.com/vi/rubRGvQCn1E&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=19/0.jpg)]
 
 ### 5. 팀 소개
