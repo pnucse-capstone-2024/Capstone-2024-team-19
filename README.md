@@ -41,6 +41,7 @@
 
 ### 4. 소개 및 시연 영상
 > 아래 그림 클릭시 링크로 이동합니다.
+> 
 [![Video Label](http://img.youtube.com/vi/rubRGvQCn1E/0.jpg)]
 
 ### 5. 팀 소개
